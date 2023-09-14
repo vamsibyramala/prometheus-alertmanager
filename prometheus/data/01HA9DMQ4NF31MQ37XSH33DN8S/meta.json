@@ -1,0 +1,17 @@
+{
+	"ulid": "01HA9DMQ4NF31MQ37XSH33DN8S",
+	"minTime": 1694670085220,
+	"maxTime": 1694671200000,
+	"stats": {
+		"numSamples": 46346,
+		"numSeries": 2661,
+		"numChunks": 2661
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HA9DMQ4NF31MQ37XSH33DN8S"
+		]
+	},
+	"version": 1
+}
